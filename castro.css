@@ -1,0 +1,21 @@
+body {
+    background-color:lightgreen;
+}
+h2{
+    text-align: center;
+    color:brown;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    image-rendering: auto;
+    text-align: center;
+    padding-left: 40%;
+    padding-right: 60% ;
+}
+h3{
+    
+    height: 2;
+    width: min-content; 
+}
